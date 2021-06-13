@@ -1,8 +1,6 @@
 import React,{Component} from 'react';
 import './buy.css';
-import web3 from './web3';
 import myProject from './abiandaddress';
-import Onecar from './onecar';
 
 class buy extends Component{
   constructor(props){

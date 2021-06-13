@@ -1,6 +1,5 @@
 import React,{Component} from 'react';
 import './pending.css';
-import web3 from './web3';
 import myProject from './abiandaddress';
 import Onecar from './onecar';
 

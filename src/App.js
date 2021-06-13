@@ -1,6 +1,5 @@
 import './App.css';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-import web3 from './web3';
 import homepage from './homepage';
 import sell from './sell';
 import buy from './buy';
@@ -12,6 +11,8 @@ import pending from './pending'
 
 function App() {
   return (
+    <div className="container">
+    <div className="outer">
     <div className="App">
       <div className="wrapper">
       <h1>DEALS ON WHEELS</h1>
@@ -32,12 +33,14 @@ function App() {
 
       <div className="Footer">
         <p>email@email.com | +91 8197351383 |
-            <a href="#" class="fa fa-facebook"></a>
+            <a href="https://rinkeby.etherscan.io/address/0xc2b50d75b07257d53fdf8f9f3968c96fce5cb910" class="fa fa-facebook"></a>
             <a href="https://instagram.com/dealsonwheels.blr?igshid=2cly268tim0c" class="fa fa-instagram"></a>
             <a href="https://youtube.com/channel/UCnEJBMBhM-2teFg71ULbC3w" class="fa fa-youtube"></a>
             <a href="https://chat.whatsapp.com/DWdSJdRA15WKBp9xsmfVwG" class="fa fa-whatsapp"></a>
         </p>
       </div>
+    </div>
+    </div>
     </div>
   );
 }

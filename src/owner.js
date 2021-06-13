@@ -2,7 +2,6 @@ import React,{Component} from 'react';
 import './owner.css';
 import web3 from './web3';
 import myProject from './abiandaddress';
-import Onecar from './onecar';
 
 class owner extends Component{
   constructor(props){
@@ -13,7 +12,7 @@ class owner extends Component{
   async componentDidMount() {
     const accounts = await web3.eth.getAccounts();
     const owner = await myProject.methods.owner().call();
-    if(accounts[0] != owner){
+    if(accounts[0] !== owner){
       this.setState({addr : '', flag : false});
       alert('You are not the owner of Smart Contract!\n You cannot access use any functions here');
     }

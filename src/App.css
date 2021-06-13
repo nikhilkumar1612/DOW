@@ -1,5 +1,5 @@
 .App {
-  color: #39ff14;
+  color: white;
   text-align: center;
 }
 
@@ -14,16 +14,16 @@ p{
 button{
   width: 250px;
   background-color: black;
-  color: #39ff14;
+  color: white;
   height: 45px;
   font-size: 20px;
   border-style: solid;
-  border-color: #39ff14;
+  border-color: white;
   border-radius: 30px;
 }
 
 button:hover{
-  background-color: #39ff14;
+  background-color: white;
   color: black;
   cursor: pointer;
 }
@@ -65,7 +65,7 @@ button:hover{
   color:white;
 }
 .fa-download{
-  color:#39ff14;
+  color:white;
 }
 
 .wrapper{

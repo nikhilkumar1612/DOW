@@ -2,7 +2,6 @@ import React,{Component} from 'react';
 import './inspect.css';
 import web3 from './web3';
 import myProject from './abiandaddress';
-import Onecar from './onecar';
 import ipfs from './ipfs';
 
 class inspect extends Component{

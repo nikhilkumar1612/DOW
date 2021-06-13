@@ -3,12 +3,12 @@
 	top : 40%;
 	left : 50%;
 	transform : translate(-50%,-50%);
-	color : #39ff14;
+	color : white;
 }
 
 .login-box h3{
 	font-size : 25px;
-	border-bottom : 5px solid #39ff14;
+	border-bottom : 5px solid white;
 	margin-bottom: 70px;
 	padding: 13px 0;
 }

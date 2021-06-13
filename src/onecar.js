@@ -1,7 +1,5 @@
 import React,{Component} from 'react';
 import './onecar.css';
-import web3 from './web3';
-import myProject from './abiandaddress';
 
 class Onecar extends Component{
 
