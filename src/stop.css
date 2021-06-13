@@ -1,0 +1,52 @@
+h3{
+	font-size : 25px;
+	margin-bottom: 70px;
+	padding: 13px 0;
+	border-bottom: 8px solid #39ff14; 
+}
+
+.carid-text-box{
+	font-size: 18px;
+	margin-bottom: 30px;
+	margin-left: 38px;
+}
+.carid-text-box input{
+	outline: none;
+	font-size : 18px;
+	background: none;
+	border-bottom: 2px solid white;
+	width: 280px;
+	color: white;
+}
+
+.bid-text-box input{
+	outline: none;
+	font-size : 18px;
+	background: none;
+	border-bottom: 2px solid white;
+	width: 280px;
+	color: white;
+}
+
+.bid-text-box{
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+.ph-text-box{
+	font-size: 18px;
+	margin-bottom: 30px;
+	margin-left: 70px;
+}
+
+.ph-text-box input{
+	outline: none;
+	font-size : 18px;
+	background: none;
+	border-bottom: 2px solid white;
+	width: 280px;
+	color: white;
+}
+.warning{
+	color:red;
+}

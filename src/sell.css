@@ -1,0 +1,28 @@
+.login-box{
+	position : absolute;
+	top : 40%;
+	left : 50%;
+	transform : translate(-50%,-50%);
+	color : #39ff14;
+}
+
+.login-box h2{
+	font-size : 40px;
+	border-bottom : 10px solid #39ff14;
+	margin-bottom: 70px;
+	padding: 13px 0;
+}
+
+.text-box{
+	font-size: 18px;
+	border-bottom: 2px solid white;
+	margin-bottom: 30px;
+}
+.text-box input{
+	outline: none;
+	font-size : 18px;
+	background: none;
+	border : none;
+	width: 280px;
+	color: white;
+}

@@ -1,0 +1,11 @@
+.inspect{
+	width: 100px;
+	height: 50px;
+  	background-color: black;
+  	color: #39ff14;
+  	height: 45px;
+  	font-size: 20px;
+  	border-style: solid;
+  	border-color: #39ff14;
+  	border-radius: 10px;
+}
