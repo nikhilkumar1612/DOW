@@ -15,6 +15,12 @@ th,td{
 	padding: 20px;
 }
 
+a{
+	text-decoration: none;
+	color : white;
+	
+}
+
 .warning{
 	color: red;
 	margin-top: 15px;

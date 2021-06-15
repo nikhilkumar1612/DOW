@@ -18,19 +18,18 @@ button{
   height: 45px;
   font-size: 20px;
   border-style: solid;
-  border-color: white;
+  border-color: rgb(201,106,99);
   border-radius: 30px;
 }
 
 button:hover{
-  background-color: white;
+  background-color: rgb(201,106,99);
   color: black;
   cursor: pointer;
 }
 
 .Footer{
   color: white;
-  background-color: black;
   position:fixed;
   left:0;
   bottom:0;
