@@ -1,0 +1,12 @@
+Attempting to deploy from account 0x0b94ec8f94F977FdBcEC497e67d9D7820CB8735a
+Contract deployed to 0x2087658b94b1C7F07156Fc07e523050BE93587cC
+
+Attempting to deploy from account 0x0b94ec8f94F977FdBcEC497e67d9D7820CB8735a
+Contract deployed to 0xA30d888905204d268234aBAECDB41E16E319961b
+
+Attempting to deploy from account 0x0b94ec8f94F977FdBcEC497e67d9D7820CB8735a
+Contract deployed to 0x122f997374A622156F4EeBCD96863da536F43fc4
+
+Attempting to deploy from account 0x0b94ec8f94F977FdBcEC497e67d9D7820CB8735a
+Contract deployed to 0xc2B50d75B07257D53fdf8F9f3968C96FCE5CB910
+
